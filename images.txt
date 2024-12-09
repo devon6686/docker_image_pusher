@@ -7,4 +7,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-gitlab/gitlab-ce:13.12.15-ce.0
+#gitlab/gitlab-ce:13.12.15-ce.0
+registry.gitlab.com/gitlab-org/gitlab-docs:13.12
