@@ -11,4 +11,5 @@
 #registry.gitlab.com/gitlab-org/gitlab-docs:13.12
 
 
-gomods/athens:v0.12.1
+#gomods/athens:v0.12.1
+python:3.7.5
