@@ -12,4 +12,5 @@
 
 
 #gomods/athens:v0.12.1
-python:3.7.5
+#python:3.7.5
+ubuntu:24.04
