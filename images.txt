@@ -16,4 +16,5 @@
 #ubuntu:20.04
 
 #garethflowers/ftp-server
-centos:centos7.5.1804
+#centos:centos7.5.1804
+harness/harness:latest
