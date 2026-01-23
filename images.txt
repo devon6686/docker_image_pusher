@@ -14,7 +14,7 @@ registry.gitlab.com/gitlab-org/gitlab-docs:17.3
 
 #gomods/athens:v0.12.1
 #python:3.7.5
-ubuntu:22.04
+ubuntu:18.04
 
 #garethflowers/ftp-server
 #centos:centos7.5.1804
