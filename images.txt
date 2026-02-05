@@ -24,4 +24,5 @@
 #casbin/casdoor-all-in-one:v1.984.0
 
 
-sonatype/nexus3:3.89.0
+#sonatype/nexus3:3.89.0
+dhi.io/dotnet:8-sdk
