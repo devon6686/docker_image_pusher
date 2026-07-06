@@ -10,7 +10,8 @@
 #gitlab/gitlab-ce:13.12.15-ce.0
 #registry.gitlab.com/gitlab-org/gitlab-docs:13.12
 #registry.gitlab.com/gitlab-org/gitlab-docs:17.3
-registry.gitlab.com/gitlab-org/gitlab-docs:14.10
+#registry.gitlab.com/gitlab-org/gitlab-docs:14.10
+gitlab/gitlab-ce:14.10.5-ce.0
 
 #gomods/athens:v0.12.1
 #python:3.7.5
